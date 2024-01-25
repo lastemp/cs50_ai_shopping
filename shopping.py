@@ -159,7 +159,6 @@ def get_month(month):
         case 'dec':
             return 11
         case _:
-            print(month.lower())
             raise IndexError
 
 
