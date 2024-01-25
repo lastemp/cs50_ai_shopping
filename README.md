@@ -1,6 +1,6 @@
 # cs50_ai_shopping
 
-This is an AI program that predicta whether online shopping customers will complete a purchase.
+This is an AI program that predicts whether online shopping customers will complete a purchase.
 It forms part of the projects for the course [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/).
 
 The program has below listed dependency:
